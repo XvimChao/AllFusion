@@ -1,2 +1,3 @@
 # AllFusion
-lab5 - dfd
+lab2 - dfd
+lab5 - sequence
